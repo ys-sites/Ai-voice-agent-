@@ -1,0 +1,6 @@
+{
+  "name": "ai.ora",
+  "description": "AIORA brings Voice, Vision, WhatsApp and orders into one operating layer, so every enquiry has somewhere to go. AI operations built around return.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
